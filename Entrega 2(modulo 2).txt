@@ -1,0 +1,1 @@
+En nuestro caso seleccionamos los casos de prueba 1,2 y 4 para ejecutar debido a que consideramos que son los mas importantes para el funcionamiento general de la pagina debido a que estos eran los de inicio de sesion y compra de productos(funcionamiento del carrito), teniendo esto en consideracion creemos que son los de mayor prioridad a la hora de hacer el testing
